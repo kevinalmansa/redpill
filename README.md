@@ -1,2 +1,2 @@
 # redpill
-My implementation of Joanna Rutkowska "Redpill"
+My implementation of Joanna Rutkowska's "Redpill"
