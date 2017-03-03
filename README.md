@@ -1,5 +1,5 @@
 # redpill
-My implementation of Joanna Rutkowska's "Redpill"
+Attempt to Analyse IDT, GDT, and LDT base values and contents to look for differences in modern virtualization systems.
 
 ## Retrieved Values
 
